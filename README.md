@@ -1,0 +1,2 @@
+# LiTr
+Little Issue Tracker
